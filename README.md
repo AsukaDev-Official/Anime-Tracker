@@ -3,8 +3,7 @@ Find anime next episode date using tkinter python
 
 <p align="center">
   <a name="top" href="#octocat-hi-there-thanks-for-visiting-">
-     <img alt="AsukaDev-Official/Subdo-Tkinter" height="60%" width="100%" src="Screenshot_20210321-204446876.jpg"/>
-     <img alt="AsukaDev-Official/Subdo-Tkinter" height="60%" width="100%" src="Screenshot_20210321-193921537.jpg"/>
+     <img alt="AsukaDev-Official/Anime-Tracker" height="60%" width="100%" src="Screenshot_20210326-075344350.jpg"/>
   </a>
 </p>
 
